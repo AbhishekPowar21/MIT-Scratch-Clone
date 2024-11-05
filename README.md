@@ -10,7 +10,6 @@ This project is a web-based clone of MIT's Scratch, a visual programming languag
 ## Features
 
 - **Sprite Movement**: Move sprites using blocks like "Move", "Turn", "Goto", and "Repeat".
-- **Customizable Sprites**: Add your own sprites, drag actions to them, and control their movement and behaviors.
 - **Drag-and-Drop Interface**: Use a drag-and-drop interface to manipulate sprite actions and set properties.
 - **Interactive Environment**: Preview your sprite interactions in a dedicated preview area.
 - **Easy to Understand UI**: A user-friendly interface with visually distinct blocks and intuitive controls.
